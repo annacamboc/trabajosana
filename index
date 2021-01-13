@@ -1,0 +1,28 @@
+<html>
+    <head>
+	</head>
+	<body>
+	    <table>
+		<tr>
+		    <td>Lunes</td>
+			<td>Martes</td>
+			<td>Miercoles</td>
+		</tr>
+		<tr>
+		   <td>deporte</td>
+		   <td>baile</td>
+		   <td>teatro>/td>
+		<tr>
+		   <td>estudio</td>
+		   <td>tarea</td>
+		   <td>salir</td>
+        <tr>
+		    <td>ingles</td>
+			<td>siesta</td>
+			<td>tarea</td>
+	   </tr>
+	  </table>
+	 </body>
+	</html>
+		   
+		
